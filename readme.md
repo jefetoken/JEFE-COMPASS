@@ -3,7 +3,7 @@
 ![Logo JEFE](./jefe.svg)
 
 ## Introduction
-Welcome to the public documentation of the Jefe Compass REST API. This API provides access to various functionalities of Jefe Compass, including user registration and authentication.
+Welcome to the public documentation of the Jefe Compass REST API. This API provides access to various functionalities of Jefe Compass, including user registration and authentication. Use the JEFE COMPASS at <a href="https://app.jefetoken.com"> JEFE COMPASS WEB3 APP </a> or download for Android-linux based systems at: <a href="https://play.google.com/store/apps/details?id=com.jefetoken.jefecompass"> ANDROID JEFE COMPASS </a> 
 
 ### Base URL
 The base URL for all requests is:
